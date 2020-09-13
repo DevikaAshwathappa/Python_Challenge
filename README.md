@@ -74,7 +74,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
   * The winner of the election based on popular vote.
 
-* As an example, your analysis should look similar to the one below:
+Output
 
   ```text
   Election Results
